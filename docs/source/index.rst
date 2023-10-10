@@ -1,33 +1,19 @@
-.. image:: images/kblockly-logo.png
-   :width: 70%
-   :align: center
+"""""""""""""""""""""
+Title of the Document
+"""""""""""""""""""""
 
-""""""""""""""""""""""""""""""""""""""""""""
-Welcome to the KookaBlockly Reference Guide!
-""""""""""""""""""""""""""""""""""""""""""""
-
-This document relates to the KookaBlockly graphical scripting tool created by Damien George for the Kookaberry.
-
-The document is in TWO parts:
-
-1. Working with KookaBlockly - relates to KookaBlockly set-up, basic screen displays and usage.
-2. A Reference Document for the graphical functional blocks in KookaBlockly.
 
 
 .. note::
 
-   This project is under active development.
+   This is only a template!
 
 Contents
 --------
 
 .. toctree::
 
-   introduction.rst
-   installing.rst
-   using.rst
-   conventions.rst
-   blocks.rst
+   
 
 
 :Copyright:

@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'KookaBlockly Reference'
+project = 'KookaBlockly Template'
 copyright = '2023, AustSTEM'
 author = 'Julian Dinsdale and Tony Strasser'
 
